@@ -14,3 +14,6 @@ Look up words that starting with the input string.
 
 ## [DTicket Helper](https://dticket-helper.onrender.com/)
 A tool to help with finding the cheapest Thai train ticket. **WIP**
+
+## [GPS : Grid Puzzle Solver](https://c-poramet.github.io/GridPuzzleSolver/)
+A tool with a custom language called GSL (Grid Solver Lanaguage) to help with solving those online grid puzzles.
