@@ -16,4 +16,4 @@ Look up words that starting with the input string.
 A tool to help with finding the cheapest Thai train ticket. **WIP**
 
 ## [GPS : Grid Puzzle Solver](https://c-poramet.github.io/GridPuzzleSolver/)
-A tool with a custom language called GSL (Grid Solver Lanaguage) to help with solving those online grid puzzles.
+A tool with a custom language called GSL (Grid Solver Lanaguage) to help with solving those online grid puzzles. You will **DEFINITELY** need the [README](https://github.com/c-poramet/GridPuzzleSolver).
