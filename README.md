@@ -17,3 +17,6 @@ A tool to help with finding the cheapest Thai train ticket. **WIP**
 
 ## [GPS : Grid Puzzle Solver](https://c-poramet.github.io/GridPuzzleSolver/)
 A tool with a custom language called GSL (Grid Solver Lanaguage) to help with solving those online grid puzzles. You will **DEFINITELY** need the [README](https://github.com/c-poramet/GridPuzzleSolver).
+
+## [Split Zip File](https://github.com/c-poramet/Split-Zip-File/)
+A python script for zipping a file into smaller zip files. Made it for myself to send big files over Discord.
