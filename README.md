@@ -20,3 +20,6 @@ A tool with a custom language called GSL (Grid Solver Lanaguage) to help with so
 
 ## [Split Zip File](https://github.com/c-poramet/Split-Zip-File/)
 A python script for zipping a file into smaller zip files. Made it for myself to send big files over Discord.
+
+## [Hear The Color](https://c-poramet.github.io/hear_the_colors/)
+A site to turn an audio file into a color using a certain set of configuration, mostly by birthdays. I have no idea what is the purpose of this thing.
